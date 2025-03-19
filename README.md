@@ -34,5 +34,3 @@ Before working on this project, it is **highly recommended** to update the servi
 
    - **Item 0:** Replace `_mpc-demo._tcp` → `_yourServiceName._tcp`  
    - **Item 1:** Replace `_mpc-demo._udp` → `_yourServiceName._udp`
-
----
